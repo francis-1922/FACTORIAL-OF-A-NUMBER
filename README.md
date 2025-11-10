@@ -54,7 +54,8 @@ END
 ```
 OUTPUT
 
-(Keil output screenshot can be inserted here)
+<img width="863" height="706" alt="Screenshot (93)" src="https://github.com/user-attachments/assets/be6be8bf-a055-4a1b-92ad-0720919e3dba" />
+
 
 ---
 MANUAL CALCULATIONS
